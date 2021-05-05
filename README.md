@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Algorithms, datastructures & CCNA
 - :chocolate_bar: Currently using Python & C++
 
-![Alt Text](https://wifflegif.com/gifs/29381-merry-christmas-charlie-brown-gif)
+
 
 <!---
 samirjamehdar/samirjamehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
