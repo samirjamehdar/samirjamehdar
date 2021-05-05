@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Algorithms, datastructures & CCNA
 - :chocolate_bar: Currently using Python & C++
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/embed/M9kzInOzNxFs68P3fH)
 
 <!---
 samirjamehdar/samirjamehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
